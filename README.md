@@ -1,10 +1,23 @@
-# Online Retail EDA with KMeans Clustering
+# Data Science Practice - Business Domain
 
-This repository contains an exploratory data analysis (EDA) of the Online Retail II dataset using Python. The analysis includes data preprocessing, visualization, and clustering using KMeans.
+This repository serves as a collection of data science practice projects focused on business domain problems. The projects showcase various analytical techniques, machine learning models, and business insights.
 
-## Dataset
+## Projects
 
-The dataset used in this analysis is the Online Retail II dataset, which can be found [here](https://archive.ics.uci.edu/dataset/502/online+retail+ii). The dataset contains transactional data for a UK-based online retail store from 2010 to 2011.
+1. Online Retail Customer Segmentation
+   - EDA and KMeans Clustering
+   - Dataset: [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+   - Focus: Customer segmentation and behavior analysis
+
+*More projects will be added as the practice continues...*
+
+## Purpose
+
+This repository is created to:
+- Practice data science techniques in business contexts
+- Document learning progress
+- Showcase problem-solving approaches in business analytics
+- Experiment with different machine learning models
 
 ## License
 
