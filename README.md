@@ -1,30 +1,56 @@
-# Data Science Practice - Business Domain
+# Data Science Learning Journey
 
-This repository serves as a collection of data science practice projects focused on business domain problems. The projects showcase various analytical techniques, machine learning models, and business insights.
+This repository documents my data science learning journey across different domains, showcasing projects, experiments, and insights gained along the way.
 
-## Projects
+## Domain Areas
 
-1. Online Retail Customer Segmentation
-   - EDA and KMeans Clustering (later) [Notebook Link](online-retail-eda.ipynb)
-   - Dataset: [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) 
-   - Focus: Customer segmentation and behavior analysis
-   - **Status**: In Progress
-2. Employee Attrition Prediction
-   - EDA and Classification Models (later)
-   - Dataset: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-   - Focus: Predicting employee attrition and identifying key factors
-   - **Status**: In Progress
-  
-*More projects will be added as the practice continues...*
+### 1. Business Analytics
+- `business/`
+  - Online Retail Customer Segmentation
+  - Employee Attrition Prediction
+  - Sales Forecasting (planned)
 
-## Purpose
+### 2. Healthcare
+- `healthcare/`
+  - Patient Readmission Analysis (planned)
+  - Disease Prediction Models (planned)
 
-This repository is created to:
-- Practice data science techniques in business contexts
-- Document learning progress
-- Showcase problem-solving approaches in business analytics
-- Experiment with different machine learning models
+### 3. Finance
+- `finance/`
+  - Stock Price Prediction (planned)
+  - Credit Risk Assessment (planned)
+
+### 4. Environmental Science
+- `environmental/`
+  - Climate Change Analysis (planned)
+  - Forest Coverage Prediction
+
+### 5. Core Skills Practice
+- `core_skills/`
+  - NumPy Fundamentals
+  - Pandas Data Manipulation
+  - PySpark Basics
+  - MLflow Experiments
+
+## Project Structure
+Each domain folder contains:
+- Jupyter notebooks with analysis
+- Dataset documentation
+- Model implementations
+- Results and insights
+
+## Learning Goals
+- Master data science techniques across different domains
+- Build practical experience with real-world datasets
+- Document learning progress and insights
+- Experiment with various ML/DL models
+- Develop domain-specific problem-solving approaches
+
+## Tools & Technologies
+- Python (NumPy, Pandas, Scikit-learn)
+- PySpark for big data processing
+- MLflow for experiment tracking
+- Visualization (Matplotlib, Seaborn)
 
 ## License
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
