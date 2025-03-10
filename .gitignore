@@ -6,3 +6,20 @@ venv/
 
 # Ignore system files
 .DS_Store
+
+# MLflow default tracking directory
+mlruns/
+
+# MLflow model registry (SQLite database, if used)
+mlflow.db
+
+# MLflow temporary files and cached data
+.mlflow/
+.mlflow.cache/
+
+# Model artifacts (e.g., saved models)
+**/artifacts/
+**/models/
+
+# MLflow server logs (if running a tracking server)
+mlflow-server.log
