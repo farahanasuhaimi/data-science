@@ -93,7 +93,7 @@ def test(dataloader, model):
 
 
 # Training the model
-epochs = 15
+epochs = 5
 for t in range(epochs):
     print(f"Epoch {t + 1}\n-------------------------------")
     train(train_dataloader, model, loss_fn, optimizer)
